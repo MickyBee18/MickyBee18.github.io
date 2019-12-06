@@ -15,10 +15,10 @@ My school does the drop schedule so each day I take all of my classes except one
 ```markdown
 this is in the Markdown
 
-# I am
-## testing
-### things out!
-
+# Header 1
+## Header 2
+### Header 3
+I think it shows it how it is written in the code form
 ```
 
 - Bulleted
@@ -30,7 +30,7 @@ this is in the Markdown
 
 **This is Bold** and _Italic_ and `Code` 
 
-[Link](url) and ![Image](src)
+[Image](url) and ![Image](src)
 
 I dont quite know what this is but
 #### HEY!
