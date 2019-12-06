@@ -4,13 +4,13 @@ This is a list of the classes I take.
 My school does the drop schedule so each day I take all of my classes except one.
 
 ### Daily:
-~ Maths
-~ History
-~ English
-~ Spanish
-~ Biology
-~ Wed Design
-~ Sports
+- Maths
+- History
+- English
+- Spanish
+- Biology
+- Wed Design
+- Sports
 
 ```markdown
 Hi!
@@ -21,7 +21,7 @@ Hi!
 
 - Bulleted
 - List
-- ##These are really easy to do
+- ## These are really easy to do
 
 1. Numbered
 2. List
@@ -29,6 +29,3 @@ Hi!
 **This is Bold** and _Italic_ and `Code` 
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
