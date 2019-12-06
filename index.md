@@ -13,7 +13,7 @@ My school does the drop schedule so each day I take all of my classes except one
 - Sports
 
 ```markdown
-Hi!
+this is in the Markdown
 
 # I am
 ## testing
@@ -31,3 +31,4 @@ Hi!
 **This is Bold** and _Italic_ and `Code` 
 
 [Link](url) and ![Image](src)
+I dont quite know what this is but  #### HEY!
