@@ -1,8 +1,7 @@
 ## Welcome to My Website!
 
-You can use the [editor on GitHub](https://github.com/MickyBee18/MickyBee18.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a list of the classes I take. 
+My school does the drop schedule so each day I take all of my classes except one.
 
 ### Markdown
 
