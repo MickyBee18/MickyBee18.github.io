@@ -4,13 +4,13 @@ This is a list of the classes I take.
 My school does the drop schedule so each day I take all of my classes except one.
 
 ### Daily:
-Maths
-History
-English
-Spanish
-Biology
-Wed Design
-Sports
+~ Maths
+~ History
+~ English
+~ Spanish
+~ Biology
+~ Wed Design
+~ Sports
 
 ```markdown
 Hi!
