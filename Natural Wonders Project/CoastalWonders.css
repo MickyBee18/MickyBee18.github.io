@@ -1,0 +1,37 @@
+body{ background-color: #afeeee;}
+
+p.heading {
+  font-family: Impact;
+  color: #2e8b57;
+  font-size: 45px;
+  font-style: bold;
+  text-align: center;
+  margin: 10pt;}
+
+h1{color: darkgreen;
+  margin: 10pt;
+  text-align: left;
+  font-size: 17pt;
+  font-family: lucida handwriting;
+  line-height: 2;}
+
+h2{font-family: comic sans ms;
+  color: #daa520;
+  font-size: 30px;
+  text-align: right;
+  margin: 15pt;}
+
+h3{font-family: comic sans ms;
+  font-size: 20px;
+  text-align: right;
+  margin: 15pt;}
+
+hr{color:#008080;
+  height: 10px;
+  width: 850px;
+  margin-top: 10pt;
+  margin-bottom: 10pt;
+  border:1px solid #008080;
+  background-color: #008080;}
+
+a{color: seagreen;}

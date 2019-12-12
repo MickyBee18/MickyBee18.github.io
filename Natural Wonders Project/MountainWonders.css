@@ -1,0 +1,37 @@
+body{ background-color: #dcdcdc;}
+
+p.heading {font-family: chiller;
+  color: #696969;
+  font-size: 60px;
+  font-style: bold;
+  text-align: center;
+  margin: 10pt;}
+
+h1{color: slategrey;
+  margin: 10pt;
+  text-align: left;
+  font-size: 17pt;
+  font-family: bradley hand itc;
+  line-height: 2;}
+
+h2{font-family: comic sans ms;
+  color: darkslategrey;
+  font-size: 30px;
+  text-align: right;
+  margin: 15pt;}
+
+h3{font-family: comic sans ms;
+  color: gray;
+  font-size: 20px;
+  text-align: right;
+  margin: 15pt;}
+
+hr{color:#ffffff;
+  height: 10px;
+  width: 850px;
+  margin-top: 10pt;
+  margin-bottom: 10pt;
+  border:1px solid #ffffff;
+  background-color: #ffffff;}
+
+a{color: dimgray;}
