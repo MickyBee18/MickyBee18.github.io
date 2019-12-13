@@ -1,0 +1,60 @@
+/*Background Picture*/
+body {background-repeat: no-repeat;
+    background-image: url("./background1.jpg");
+    background-size: cover;}
+
+    /*title*/
+h1{color: #4B0082;
+    font-family: Chiller;
+    margin: 20pt;
+    font-size: 80px;
+    text-align: center;}
+
+h2{color: rgb(0, 78, 168);
+    margin: 10pt;
+    text-align: center;
+    font-size: 20pt;
+    font-family: Courier;
+    flex-flow: row-reverse;}
+
+h3{color: white;
+    background-color: rgba(111, 0, 255, 0.274);
+    margin: 20pt;
+    text-align: center;
+    font-size: 20pt;
+    font-family: Bradley Hand ITC;
+    line-height: 2;}
+
+h4{color: hotpink;
+    margin: 10pt;
+    text-align: center;
+    font-size: 20pt;
+    line-height: 1.5;
+    font-family: Verdana;}
+
+hr{color: rgba(0, 223, 223, 0.575);
+    height: 10px;
+    width: 850px;
+    border:1px solid rgba(0, 223, 223, 0.575);
+    background-color: rgba(0, 223, 223, 0.575);}
+
+    /*Website*/
+h6{color: black;
+    margin: 10pt;
+    text-align: right;
+    font-size: 15pt;
+    font-family: calibri;}
+
+/*These are the citations for the Icons used in the HTML*/
+/*<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> 
+from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>*/
+/*<div>Icons made by <a href="https://www.flaticon.com/authors/those-icons" title="Those Icons">Those Icons</a>
+ from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>*/
+ /*<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from 
+ <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>*/
+ /*<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from 
+ <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>*/
+ /*<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from 
+ <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>*/
+ /*<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from 
+ <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>*/
