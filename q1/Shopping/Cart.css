@@ -1,0 +1,75 @@
+body {background-repeat: no-repeat;
+  background-image: url("bb.jpg");
+  background-size: cover;}
+
+h1 {color: limegreen;
+  margin: 20pt;
+  text-align: center;
+  font-size: 30pt;
+  line-height: 1;
+  font-family: comic sans ms;}
+
+h2 {color: forestgreen;
+  margin: 10pt;
+  text-align: center;
+  font-size: 20pt;
+  line-height: 1;
+  font-family: sans serif;}
+
+p{color: blue;
+  margin: 10pt;
+  text-align: center;
+  font-size: 20pt;
+  line-height: 1;
+  font-family: COMIC SANS MS;}
+
+th{color: #004300;
+   text-decoration: underline;
+   text-align: center;
+   font-size: 20pt;}
+
+button{width: 300px;
+       height: 100px;
+       font-size: 17.5pt;}
+
+hr{color:#6AC254;
+  height: 10px;
+  width: 850px;
+  border:1px solid #6AC254;
+  background-color:#6AC254;}
+
+  .container{
+      width: available;
+      height: available;
+  }
+  .middlepane{
+     width: 50%;
+     min-width: 800px;
+     height: available;
+     min-height: 100px;
+     float: left;
+     border-collapse: collapse;
+     text-align: center;
+     font-size: 48pt;
+     font-family: Forte;
+  }
+  .leftpane{
+      width: 20%;
+      min-width: 100px;
+      height: available;
+      min-height: 400px;
+      float: left;
+      border-collapse: collapse;
+  }
+  .rightpane{
+      width: available;
+      height: available;
+      position: relative;
+      margin-left: 75%;
+      border-collapse: collapse;
+  }
+h3{display: inline;}
+
+a{display: inline;
+  color: rgba(0, 124, 27);
+   font-family: COMIC SANS MS;}
