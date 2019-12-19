@@ -1,9 +1,3 @@
----
-title: My Web Design Projects
-description: 
-layout:
----
-
 ## Welcome to My Main Page!
 
 This page leads to any other websites that I have made during this semester in Web Design Class.
