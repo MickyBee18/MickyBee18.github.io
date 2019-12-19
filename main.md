@@ -1,5 +1,5 @@
 ---
-title: Explore My Web Design Projects
+title: My Web Design Projects
 description: 
 layout:
 ---
