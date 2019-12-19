@@ -32,7 +32,7 @@ Learning how to use javascript, aided with example.
 - [Second Game](https://mickybee18.github.io/Game%20Project/clicker2.html)
 Induvidual use of Javascript, but very similar to frist game.
 
-Neither of them work perfectly and are a work in progress...
+Neither of them are perfectly functional and are a work in progress...
 
 ### Natural Wonders Project:
 - [8 Natural Wonders](https://mickybee18.github.io/Natural/7%20Natural%20Wonders.html)
