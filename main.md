@@ -7,9 +7,13 @@ I hope you like my work and enjoy looking around!
 
 ### My beginning projects:
 - [First Program](https://mickybee18.github.io/Beginning%20Programs/prg1.htm)
+This was the first ever Website that I made! It was a 'Photo Gallery' website and showed H1-H6 text.
 - [Second Program](https://mickybee18.github.io/Beginning%20Programs/prg2.htm)
+Simple page testing CSS.
 - [Third Program](https://mickybee18.github.io/Beginning%20Programs/prg3.htm)
+Webpage testing CSS and Header styles.
 - [Fourth Program](https://mickybee18.github.io/Beginning%20Programs/prg4.htm)
+Simple Webpage showing italics, bold and underline with CSS.
 
 ### Bible Verse Project:
 - [Daily Verse Page](https://mickybee18.github.io/Verse/Bible%20Verse.html)
