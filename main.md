@@ -32,13 +32,15 @@ Learning how to use javascript, aided with example.
 - [Second Game](https://mickybee18.github.io/Game%20Project/clicker2.html)
 Induvidual use of Javascript, but very similar to frist game.
 
+Neither of them work perfectly and are a work in progress...
+
 ### Natural Wonders Project:
 - [8 Natural Wonders](https://mickybee18.github.io/Natural/7%20Natural%20Wonders.html)
 Formal assessment showing eight natural wonders of the world.
 
 ### Group Project:
 - [Shopping Website](https://mickybee18.github.io/q1/1.%20Login%20Page/login-page)
-Group Project as a Online Shopping page.
+Group Project as a Online Shopping page. The username is Test and the password is Login
 
 ---
 
